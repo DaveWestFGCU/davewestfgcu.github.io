@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
 body {
    background: #0f0f23;
    color: #cccccc;
@@ -7,11 +9,16 @@ body {
    min-width: 60em;
 }
 
-header h1 {
+header h1 a {
     display: inline-block;
     text-decoration: none;
     color: #00cc00;
     text-shadow: 0 0 2px #00cc00, 0 0 5px #00cc00;
+}
+
+a {
+    text-decoration: none;
+    color: #009900;
 }
 
 h1, h2 {
