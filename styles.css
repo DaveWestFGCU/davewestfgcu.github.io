@@ -14,10 +14,6 @@ header h1 a {
     text-shadow: 0 0 2px #00cc00, 0 0 5px #00cc00;
 }
 
-a {
-    text-decoration: none;
-    color: #009900;
-}
 
 .hovering {
     color: #99ff99;
