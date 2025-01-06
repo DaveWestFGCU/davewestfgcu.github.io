@@ -19,6 +19,10 @@ a {
     color: #009900;
 }
 
+.hovering {
+    color: #99ff99;
+}
+
 h1, h2 {
   font-size: 1em;
   font-weight: normal;
